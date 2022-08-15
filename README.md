@@ -1,10 +1,10 @@
-# **Predicting Sentiment from IMDB Dataset Using LinearSVC**
+# **Predicting Sentiment of IMDB Movie Review Using LinearSVC**
 
-###**About the Dataset**
+### **About the Dataset**
 
 The dataset contains 50K movie reviews collected from IMDB. It was posted by [Lakshmipathi N](https://www.kaggle.com/lakshmi25npathi) on [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). 
 
-###**How to Use**
+### **How to Use**
 
 1. Clone the repository
 2. Install dependencies using `Requirements.txt`
