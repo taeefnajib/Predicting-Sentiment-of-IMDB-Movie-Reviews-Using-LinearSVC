@@ -1,4 +1,4 @@
-# **Predicting Sentiment of IMDB Movie Review Using LinearSVC**
+# **Predicting Sentiment of IMDB Movie Reviews Using LinearSVC**
 
 ### **About the Dataset**
 
