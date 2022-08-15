@@ -10,3 +10,8 @@ The dataset contains 50K movie reviews collected from IMDB. It was posted by [La
 2. Install dependencies using `Requirements.txt`
 3. Run `training.py` if you'd like to change the hyperparameters or algorith
 4. Predict with user input using `model.py`
+
+### **Accuracy**
+
+Model Accuracy: 90.69%
+
